@@ -17,7 +17,6 @@
 <a href="https://www.codechef.com/users/raghuramjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghuramjee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raghuramjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghuramjee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ramjeeraghu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ramjeeraghu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raghuramjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghuramjee" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/ramjeeraghu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ramjeeraghu" height="30" width="40" /></a>
 </p>
 
