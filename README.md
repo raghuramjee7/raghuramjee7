@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghuramjee</h1>
-<h3 align="center">I'm a competitive coder and a frontend web developer</h3>
+<h3 align="center">I'm a Competitive Programmer</h3>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Full Stack Development** and **Data Science**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
