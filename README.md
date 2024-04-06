@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raghuramjeee" target="blank"><img src="https://img.shields.io/twitter/follow/raghuramjeee?logo=twitter&style=for-the-badge" alt="raghuramjeee" /></a> </p>
 
-- 🔭 I’m currently working on [lupa](https://github.com/raghuramjee7/lupa)
+- 🔭 I’m currently working on [rmnt](https://github.com/raghuramjee7/rmnt)
 
 - 🌱 I’m currently learning **Backend Development**
 
